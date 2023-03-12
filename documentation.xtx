@@ -34,3 +34,6 @@ if(lenPattern <= lenText){
 
 //Here is the result
 console.log(`Here the pattern '${pattern}' appears in text ('${text}') ${count} times`);
+
+
+//If lenght of text is n and lenght of pattern is m. Then the overall time complexity is : O(nm)
